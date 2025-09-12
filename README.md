@@ -1,13 +1,12 @@
 # Hi, I'm Sadegh 👋
 
 🎓 Computer Engineering student @ **University of Tehran** (5th semester)  
-💻 Exploring different areas of computer engineering — from algorithms and operating systems to networks and AI  
-🚀 Currently publishing my past 4 semesters of university projects on GitHub  
+💻 Exploring different areas of computer engineering — especially **Computational Theory**, **Software Engineering**, and **Artificial Intelligence**  
 
 ---
 
 ## 🔧 Skills & Tools
-- **Languages:** C, C++, Python, Java  
+- **Languages:** C++, Python, SystemVerilog
 - **Tools & Platforms:** Git, Linux, VS Code  
 
 ---
@@ -15,13 +14,13 @@
 ## 📌 Current Focus
 - Uploading and organizing my course projects (Semesters 1–4)  
 - Improving my Git/GitHub workflow and documentation skills  
-- Exploring systems programming and computer networks  
+- Exploring algorithms, theory of computation, AI, and software development practices   
 
 ---
 
 ## 📫 How to reach me
-- Email: [your.email@example.com](mailto:your.email@example.com)  
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)  
+- Email: [sadeghsamadi2483@gmail.com](mailto:sadeghsamadi2483@gmail.com)  
+- LinkedIn: [Sadegh Samadi](https://www.linkedin.com/in/sadegh-samadi-46616a384/)  
 
 ---
 
