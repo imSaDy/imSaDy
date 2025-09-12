@@ -14,7 +14,7 @@
 ## 📌 Current Focus
 - Uploading and organizing my course projects (Semesters 1–4)  
 - Improving my Git/GitHub workflow and documentation skills  
-- Exploring algorithms, theory of computation, AI, and software development practices   
+- Exploring algorithms, theory of computation, AI, and software development   
 
 ---
 
