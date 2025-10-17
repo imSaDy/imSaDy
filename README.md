@@ -13,7 +13,6 @@
 ---
 
 ## 📌 Current Focus
-- Improving my Git/GitHub workflow and documentation skills  
 - Deepening my study of **Formal Methods**, including model checking, automata theory, and program analysis
 - Exploring the application of formal verification techniques in both software (Software Engineering) and hardware (SystemVerilog) design
 
