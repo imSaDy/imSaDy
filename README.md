@@ -7,7 +7,7 @@
 
 ## 🔧 Skills & Interests
 - **Languages:** C++, Python, SystemVerilog
-- **Core Interests:** Formal Methods, Theory of Computation, Software Verification, Algorithm Design, AI Safety
+- **Core Interests:** Formal Methods, Theory of Computation, Software Verification, Algorithm Design, AI Safety, Model Checking
 - **Tools & Platforms:** Git, Linux, VS Code  
 
 ---
