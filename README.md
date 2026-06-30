@@ -1,6 +1,6 @@
 ### Hi, I'm Sadegh 👋
 
-🎓 Computer Engineering student @ **University of Tehran** (5th semester)  
+🎓 Computer Engineering student @ **University of Tehran** (6th semester)  
 💻 Focusing on **Formal Methods** and **Computational Theory**, and their application to building reliable and verifiable software and hardware systems.
 
 ---
