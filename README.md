@@ -6,6 +6,7 @@ I'm interested in automata theory and formal verification. My current work looks
 
 ### Selected course projects
 
+- [Compiler for a modular language](https://github.com/imSaDy/PLC): Java and ANTLR, from parsing and type checking to code generation for a stack-based VM
 - [RISC-V processors](https://github.com/imSaDy/Computer-Architecture): single-cycle and pipelined designs in Verilog
 - [Extended xv6 kernel](https://github.com/ParsaBukani/Enhanced-xv6-Operating-System): multi-CPU scheduling, locks and page replacement
 - [Computer vision](https://github.com/imSaDy/ComputerVision): classical image processing assignments
