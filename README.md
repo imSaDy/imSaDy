@@ -1,17 +1,9 @@
-## Sadegh Samadi
+## Hi, I'm Sadegh
 
-Computer Engineering undergraduate at the [University of Tehran](https://ut.ac.ir/en).
+I study Computer Engineering at the [University of Tehran](https://ut.ac.ir/en). I'm mostly drawn to automata theory and formal verification, and I enjoy it most when a clean idea from theory ends up as a tool that actually runs.
 
-I'm interested in automata theory and formal verification. My current work looks at repairing DFAs so they can be decomposed into smaller automata, using SAT-based methods, and at model checking for the actor-based language Rebeca.
+At the moment I'm working on two research projects. In one, we look for the smallest set of changes that lets a DFA be split into smaller automata, and we use SAT solvers to find it. The other is a model checker for Rebeca, an actor-based modeling language, that aims to handle its many extensions in one place.
 
-### Selected course projects
+I came to computer science through competitive programming, and I still like writing problems for courses and contests. When I need a tool that doesn't exist yet, I sometimes build it myself, like a flashcard app for learning vocabulary or a small Othello engine.
 
-- [Compiler for a modular language](https://github.com/imSaDy/PLC): Java and ANTLR, from parsing and type checking to code generation for a stack-based VM
-- [RISC-V processors](https://github.com/imSaDy/Computer-Architecture): single-cycle and pipelined designs in Verilog
-- [Extended xv6 kernel](https://github.com/ParsaBukani/Enhanced-xv6-Operating-System): multi-CPU scheduling, locks and page replacement
-- [Computer vision](https://github.com/imSaDy/ComputerVision): classical image processing assignments
-- [Artificial intelligence](https://github.com/imSaDy/AI): search, game-playing agents and basic learning algorithms
-
-### Contact
-
-[sadeghsamadi2483@gmail.com](mailto:sadeghsamadi2483@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sadegh-samadi-a0a653394/)
+You can reach me at [sadeghsamadi2483@gmail.com](mailto:sadeghsamadi2483@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/sadegh-samadi-a0a653394/).
